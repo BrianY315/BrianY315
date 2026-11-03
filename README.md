@@ -1,3 +1,5 @@
+![Software Development · Data Analysis · Administration](skills-strip.svg)
+
 # Hi, I’m Brian Yorachi
 
 I’m based in Sheffield and learning software development with CodeYourFuture. I’m currently building my JavaScript, debugging and testing skills and using GitHub pull requests to share my work for review.
@@ -10,8 +12,6 @@ I’m based in Sheffield and learning software development with CodeYourFuture. 
 - **Independent MSc research** — Used Excel and Power BI for statistical analysis during my MSc in Global Development at The Open University.
 
 Outside tech, I volunteer with Voluntary Action Sheffield, where I help admin volunteers build practical office skills and confidence.
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/brian-yorachi-674580439/)
 
 ![Teal data wave on a navy background](teal-data-wave.svg)
 
