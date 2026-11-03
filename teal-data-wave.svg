@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 112" width="960" height="112">
+<defs>
+  <linearGradient id="navy"><stop stop-color="#07182e"/><stop offset="1" stop-color="#102c48"/></linearGradient>
+  <linearGradient id="teal"><stop stop-color="#187d94"/><stop offset=".6" stop-color="#24dcc6"/><stop offset="1" stop-color="#61eddd" stop-opacity=".3"/></linearGradient>
+  <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="8" cy="8" r="1.1" fill="#60e4df" opacity=".34"/></pattern>
+</defs>
+<rect width="960" height="112" rx="12" fill="url(#navy)"/>
+<rect x="630" y="12" width="305" height="88" fill="url(#grid)"/>
+<path d="M24 77 C115 80 146 39 221 43 S337 94 415 72 S526 20 595 33 S716 80 775 58 S868 34 936 37" fill="none" stroke="url(#teal)" stroke-width="3" stroke-linecap="round"/>
+<path d="M24 91 C115 94 146 53 221 57 S337 108 415 86 S526 34 595 47 S716 94 775 72 S868 48 936 51" fill="none" stroke="#24dcc6" stroke-opacity=".22"/>
+<g fill="#71f3df"><circle cx="221" cy="43" r="4"/><circle cx="415" cy="72" r="4"/><circle cx="595" cy="33" r="4"/><circle cx="775" cy="58" r="4"/></g>
+</svg>
