@@ -12,3 +12,7 @@ I’m based in Sheffield and learning software development with CodeYourFuture. 
 Outside tech, I volunteer with Voluntary Action Sheffield, where I help admin volunteers build practical office skills and confidence.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/brian-yorachi-674580439/)
+
+![Teal data wave on a navy background](teal-data-wave.svg)
+
+[LinkedIn](https://www.linkedin.com/in/brian-yorachi-674580439/) · [AppTrust UK](https://apptrust.co.uk/website/)
