@@ -12,7 +12,9 @@ I’m based in Sheffield and learning software development with CodeYourFuture. 
 - **AppTrust UK website and feedback dashboard** — Worked on a Node.js website and dashboard for managing email and form feedback, using Gmail OAuth, MySQL and SQLite. [Read the case study](https://gist.github.com/BrianY315/86140296eb8dde3668fc4ef3f8c9141b) · [Visit the live site](https://apptrust.co.uk/website/)
 - **Independent MSc research** — Used Excel and Power BI for statistical analysis during my MSc in Global Development at The Open University.
 
-Outside tech, I volunteer with Voluntary Action Sheffield, where I help admin volunteers build practical office skills and confidence.
+## Volunteering
+
+I volunteer with Voluntary Action Sheffield through its Volunteer to Career project. I mentor admin volunteers as they build office skills and prepare for employment, and support newer mentors as they settle into the role.
 
 ![Teal data wave on a navy background](teal-data-wave.svg)
 
